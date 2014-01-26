@@ -1,0 +1,68 @@
+<html>
+<!--#include virtual="header.html"-->
+<head>
+	<title>Apoorva's Website</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width-device-width, initial-scale=1.0">
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	<div id="pageheaders">
+		<h1>Resume</h1>
+		</br>
+	</div>
+	<div id="pagecontent">
+		<h3>Education</h3>
+		<h4>
+			University of California, Berkeley (in Berkeley, CA)
+		</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Electrical Engineering Computer Science - Candidate of Graduation: 2017
+		</br>
+	</br>
+			Current and Past Technical Courses: Structure and Interpretation of Computer Programs (Python), Multivariable Calculus
+		</h4>
+	</br>
+		<h3>Technical Skills</h3>
+		<h4>
+			<li>Python
+			<li>Java
+			<li>Matlab
+			<li>HTML/CSS
+			<li>Flask
+			<li>Autodesk Inventor
+			<li>FDTD (Finite Difference Time Domain) Software
+			<li>Machine Tools
+		</h4>
+	</br>
+		<h3>Current Co-Curricular Activities</h3>
+		<h4>
+			SWE (Society of Women Engineers): Corporate Committee and Outreach Committee member
+		</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Co-organized an Amazon Information Session at UC Berkeley.
+		</br>
+		</br>
+			WiSE (Women in Science and Engineering) theme program resident
+			</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Webmaster
+		</br>
+		</br>
+			Member of Hackers@Berkeley
+		</h4>
+	</br>
+		<h3>Projects</h3>
+		<h4>
+			<a href="http://www.ocf.berkeley.edu/~apoorva/personalWebsite/FacebookHack2013.shtml">FacebookMark (October 2013)</a>
+		</br>
+			<a href="http://www.ocf.berkeley.edu/~apoorva/personalWebsite/OfficeHoursApp.shtml">Office Hours App (November 2013 - Present)</a>
+		</h4>
+	</br>
+		<h3>Experience</h3>
+		<h4>
+			<a href="http://www.ocf.berkeley.edu/~apoorva/personalWebsite/Research.shtml">Research at UC Berkeley</a>
+		</br>
+			<a href="http://www.ocf.berkeley.edu/~apoorva/personalWebsite/HSProjects.shtml">High School Activities</a>
+		</br>
+			
+		</h4>
+	</div>
+</body>
+</html>
